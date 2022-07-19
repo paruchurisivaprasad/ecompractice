@@ -1,0 +1,24 @@
+.btnbdy{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.btn{
+    box-shadow: 0 0 5px rgb(5, 201, 12), 0 0 10px green, 0 0 20px lightgreen, 0 0 40px lightseagreen,
+      0 0 70px lime, 0 0 80px lightskyblue ;
+  }
+
+  .notif{
+
+  }
+  
+
+  .notification{
+
+    position: absolute;
+top: 0%;
+    left: 1%;
+
+  }
